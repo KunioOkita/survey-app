@@ -1,0 +1,22 @@
+{
+  "name": "survey-app",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KunioOkita/survey-app.git"
+  },
+  "author": "Kunio Okita",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/KunioOkita/survey-app/issues"
+  },
+  "homepage": "https://github.com/KunioOkita/survey-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
