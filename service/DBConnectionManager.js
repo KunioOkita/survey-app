@@ -4,7 +4,7 @@ const MongoClient = require('mongodb').MongoClient;
 const url = 'mongodb://localhost:27017';
 
 // Database Name
-const dbName = 'votes';
+const dbName = 'votesdb';
 const client = new MongoClient(url);
 var dbConnection = null;
 // Use connect method to connect to the server
